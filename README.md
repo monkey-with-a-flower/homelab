@@ -1,6 +1,3 @@
-# homelab
-My Homely setup and architecture 
-
 ```mermaid
 %%{ init : { "theme": "default", "themeVariables": { "fontSize": "16px" }}}%%
 flowchart TD
